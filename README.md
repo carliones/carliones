@@ -4,4 +4,4 @@
 - 🌱 atualmente estou aprendendo .Java, C e python. Quero crescer
   tendo domínio na lógica e na linguagem
 - 💞️ atualmente meu foco é interligar meus códigos à biologia ou quimíca
-- 😁 atualmente estou cursando CDC na UFJ 1* período
+- 😁 atualmente estou cursando CDC na UFJ 4* período
